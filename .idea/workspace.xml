@@ -5,16 +5,135 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9808613-0653-4859-83ff-a7ebd2c5131a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Steven.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="DELETED" beforePath="G:\Projects\AngularTesting\npm-debug.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AngularTesting.iml" afterPath="$PROJECT_DIR$/.idea/AngularTesting.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/calculatorService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mathController.js" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\location.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\ChangeLog" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\LICENSE.BSD" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\README.md" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\arguments.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\arguments.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\child_process-examples.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\child_process-examples.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\colorwheel.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\colorwheel.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\countdown.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\countdown.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\detectsniff.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\detectsniff.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\direction.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\direction.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\echoToFile.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\echoToFile.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\features.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\features.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\fibo.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\fibo.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\follow.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\follow.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\hello.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\hello.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\imagebin.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\imagebin.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\injectme.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\injectme.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\ipgeocode.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\ipgeocode.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\loadspeed.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\loadspeed.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\loadurlwithoutcss.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\loadurlwithoutcss.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\module.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\module.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\movies.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\movies.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\netlog.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\netlog.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\netsniff.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\netsniff.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\outputEncoding.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\outputEncoding.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\page_events.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\page_events.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\pagecallback.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\pagecallback.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\phantomwebintro.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\phantomwebintro.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\pizza.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\pizza.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\post.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\post.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\postserver.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\postserver.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\printenv.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\printenv.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\printheaderfooter.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\printheaderfooter.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\printmargins.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\printmargins.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\rasterize.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\rasterize.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\render_multi_url.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\render_multi_url.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\run-jasmine.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\run-jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\run-qunit.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\run-qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\scandir.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\scandir.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\seasonfood.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\seasonfood.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\server.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\server.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\serverkeepalive.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\serverkeepalive.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\simpleserver.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\simpleserver.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\sleepsort.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\sleepsort.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\stdin-stdout-stderr.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\stdin-stdout-stderr.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\technews.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\technews.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\tweets.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\tweets.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\universe.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\unrandomize.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\unrandomize.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\useragent.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\useragent.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\version.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\version.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\waitfor.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\waitfor.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\walk_through_frames.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\walk_through_frames.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\weather.coffee" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\examples\weather.js" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\phantomjs.exe" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\AngularTesting\node_modules\karma-phantomjs-launcher\node_modules\phantomjs\lib\phantom\third-party.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.specs.js" afterPath="$PROJECT_DIR$/app/app.specs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/adm-zip/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/adm-zip/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/kew/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/kew/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/ncp/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/ncp/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/node_modules/proto-list/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/node_modules/proto-list/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/inherits/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/inherits/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/ini/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/ini/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/nopt/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/nopt/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/nopt/node_modules/abbrev/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/once/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/once/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/osenv/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/npmconf/node_modules/osenv/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/request/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/request/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/which/package.json" afterPath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/which/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="G:\Projects\AngularTesting\Scripts\angular.mocks.js" afterPath="$PROJECT_DIR$/Scripts/angular-mocks.js" />
     </list>
     <ignored path="AngularTesting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,31 +156,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="110" max-vertical-offset="418">
-              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scripts/angular.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="477906">
-              <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1100">
-              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mathController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/mathController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.806452" vertical-offset="220" max-vertical-offset="946">
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -70,8 +191,8 @@
       <file leaf-file-name="karma.conf.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/karma.conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="607" max-vertical-offset="1672">
-              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1760">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -80,8 +201,8 @@
       <file leaf-file-name="app.specs.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/app.specs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4216028" vertical-offset="0" max-vertical-offset="748">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.15172414" vertical-offset="0" max-vertical-offset="968">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -111,9 +232,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Scripts/angular.mocks.js" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/calculatorService.js" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/karma.conf.js" />
+        <option value="$PROJECT_DIR$/app/mathController.js" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/app.specs.js" />
       </list>
     </option>
@@ -134,7 +257,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -290,9 +413,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33853006" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -362,14 +485,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/angular.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="477906">
@@ -417,34 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/angular.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="477906">
-          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="418">
-          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/karma/static/debug.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1254">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="607" max-vertical-offset="1672">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -457,18 +548,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="477906">
+          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="854" max-vertical-offset="8140">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.WebStorm8/system/extLibs/http_ajax.googleapis.com_ajax_libs_angularjs_1.2.16_angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3325554" vertical-offset="43803" max-vertical-offset="472318">
+          <caret line="2004" column="12" selection-start-line="2004" selection-start-column="12" selection-end-line="2004" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="365" max-vertical-offset="1100">
-          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.806452" vertical-offset="220" max-vertical-offset="946">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/mathController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1760">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/calculatorService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27160493" vertical-offset="0" max-vertical-offset="528">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.specs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4216028" vertical-offset="0" max-vertical-offset="748">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.15172414" vertical-offset="0" max-vertical-offset="968">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding />
         </state>
       </provider>

@@ -25,4 +25,14 @@ describe('Calculator Tests', function() {
 });
 
 
+describe('Testing the Controller', function() {
+
+    beforeEach(module("myapp"));
+
+    it('should return a 200 status code', inject(function($httpBackend) {
+        $httpBackend.expect('POST', 'https://api.mydomain.com/login')
+            .respond(200, "[{ success : 'true', id : 123 }]");
+    }));
+
+});
 

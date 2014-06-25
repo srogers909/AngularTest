@@ -17,8 +17,12 @@ module.exports = function(config) {
         'Scripts/angular.js',
         'Scripts/angular-mocks.js',
         'app/app.js',
+        'app/calculatorService.js',
+        'app/mathController.js',
         'app/app.specs.js'
     ],
+
+    plugins: ['karma-jasmine', 'karma-phantomjs-launcher'],
 
 
     // list of files to exclude
@@ -57,7 +61,7 @@ module.exports = function(config) {
     // - Safari (only Mac; has to be installed with `npm install karma-safari-launcher`)
     // - PhantomJS
     // - IE (only Windows; has to be installed with `npm install karma-ie-launcher`)
-    browsers: ['Chrome'],
+    browsers: ['PhantomJS'],
 
 
     // If browser does not capture in given timeout [ms], kill it

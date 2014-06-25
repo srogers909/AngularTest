@@ -4,11 +4,35 @@
         <meta charset="UTF-8">
         <script src="Scripts/angular.js"></script>
         <script src="Scripts/angular-loader.js"></script>
+        <script src="app/app.js"></script>
+        <script src="app/calculatorService.js"></script>
+        <script src="app/mathController.js"></script>
         <title>AngularJS Testing 101</title>
         <link href="Assets/bootstrap.min.css" type="text/css" rel="stylesheet" />
         <link href="Assets/bootstrap-theme.min.css" type="text/css" rel="stylesheet" />
     </head>
-    <body>
+    <body ng-controller="mathController">
+        <div class="container">
+            <fieldset>
+                <legend>Let's do Math!</legend>
+                <div class="row">
+                    <label for="mathTypes">Pick a Equation Type:</label>
+                    <select id="mathTypes" name="mathTypes" ng-model="mathType" ng-options="m as m.name for m in mathTypes">
+                        <option>{{m.name}}</option>
+                    </select>
+                </div>
+                <div class="row">
+                    <input type="number" id="firstValue" name="firstValue" ng-model="firstValue" placeholder="Enter the first value" />
+                    <input type="number" id="secondValue" name="secondValue" ng-model="secondValue" placeholder="Enter the second value" />
+                </div>
+                <div class="row top">
+                    <button ng-click="execute()" class="btn btn-primary">Execute</button>
+                </div>
+            </fieldset>
 
+            <h3 ng-show="solution > 0">
+                {{solution}}
+            </h3>
+        </div>
     </body>
 </html>
