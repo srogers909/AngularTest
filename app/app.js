@@ -1,7 +1,7 @@
 var myapp = angular.module('myapp', []);
 
 myapp.service('calculator', function() {
-    this.add = function(a, b) {
+    this.addition = function(a, b) {
         return a + b;
     };
 
@@ -38,7 +38,7 @@ myapp.controller('mathController', ['$scope', 'calculator', function($scope, cal
                 $scope.solution = calculator.divide($scope.firstValue, $scope.secondValue);
                 break;
             default:
-                $scope.solution = calculator.add($scope.firstValue, $scope.secondValue);
+                $scope.solution = calculator.addition($scope.firstValue, $scope.secondValue);
                 break;
         }
     };
